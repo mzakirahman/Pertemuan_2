@@ -28,5 +28,4 @@ fun main() {
         goOn = readLine()!!
     }
     println("Thank you for using our calculator.")
-
 }
